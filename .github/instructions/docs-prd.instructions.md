@@ -19,7 +19,7 @@ For PRD (product reqiurment document), it must contain the following items (it t
     + Date: blank
     + Version: blank
  
-- Table of Contents
+- Table of Contents\
   Includes items up to the second-level header
 
 - Overview
@@ -39,8 +39,9 @@ For PRD (product reqiurment document), it must contain the following items (it t
     - statement: **As a** <type of user>, **I want** <goal>, **so that** <reason/benifit>.
     - requirement details explaining the statment
     - acceptance criteria, in **given-when-then** format
-- Non-Functional Requirements
-- Dependancy & Constraints
+- Non-Functional Requirements\
+  Leave it blank
+- Dependancy & Constraints\
   State explicitly any limitations (e.g., only for desktop web, not mobile yet).
 
 - Success Metrics
